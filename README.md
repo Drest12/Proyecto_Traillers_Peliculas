@@ -1,1 +1,3 @@
-# Proyecto_Traillers_Peliculas
+# Proyecto_Traillers_P
+
+Se ha desarrollado un sistema en miniatura para trailers de películas utilizando las tecnologías de programación Java con Spring Boot, Spring JPA, Thymeleaf y MySQL. Este sistema permite la gestión de trailers de películas, incluyendo la inserción, actualización y eliminación de datos, así como la visualización de la información almacenada en la base de datos. Con la ayuda de Spring Boot, se ha simplificado el proceso de configuración y despliegue del sistema, mientras que Spring JPA se ha utilizado para la persistencia de datos. La interfaz de usuario se ha implementado con Thymeleaf, lo que ha permitido una integración fluida entre el front-end y el back-end del sistema. En resumen, este sistema de trailers de películas es una solución eficiente y escalable para la gestión de información de trailers de películas utilizando tecnologías de programación modernas y probadas.
